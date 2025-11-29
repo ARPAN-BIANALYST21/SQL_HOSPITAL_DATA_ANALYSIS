@@ -84,4 +84,8 @@ These involve multiple-table joins, conditional logic, grouping logic, and creat
 | **Mathematical Calculations** | BMI formula using POWER & arithmetic operations |
 | **Security Logic**          | Temporary password generation using concatenation of fields |
 
+🙌 Acknowledgements :
 
+This project was developed using the dataset provided by Datamites Internship Team and MySQL Workbench to provide insights for job seekers, recruiters, and policy makers.
+
+👉 Here is the complete link of the SQL Script of the report : 
